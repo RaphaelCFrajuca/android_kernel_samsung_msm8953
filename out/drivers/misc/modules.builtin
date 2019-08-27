@@ -1,0 +1,5 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/hdcp.ko
+kernel/drivers/misc/compat_qseecom.ko
+kernel/drivers/misc/type-c-pericom.ko
+kernel/drivers/misc/tzic64.ko

@@ -1,0 +1,2 @@
+kernel/drivers/fingerprint/et5xx-spi.ko
+kernel/drivers/fingerprint/et5xx-spi_data_transfer.ko

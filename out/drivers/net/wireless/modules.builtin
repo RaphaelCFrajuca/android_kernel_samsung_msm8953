@@ -1,0 +1,4 @@
+kernel/drivers/net/wireless/cnss_crypto/cnss_secif.ko
+kernel/drivers/net/wireless/cnss_prealloc/cnss_prealloc.ko
+kernel/drivers/net/wireless/prima/wlan.ko
+kernel/drivers/net/wireless/wcnss/wcnsscore.ko
